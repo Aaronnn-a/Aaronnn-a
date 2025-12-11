@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Aaron Ashraf</h1>
-<h3 align="center">Blockchain Researcher • Cybersecurity Analyst • Research</h3>
 
 ---
 ```python
