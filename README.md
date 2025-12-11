@@ -19,7 +19,7 @@ I'm a **Cybersecurity & Blockchain Researcher** focused on:
 - 🐧 **Linux-first workflow (Debian, Ubuntu, Kali)**  
 - 💻 **Programming: Python, C++, C, SQL**  
 
-Top **6% TryHackMe** under the name **Aron**, specialized in:
+Top **6% TryHackMe** under the name **Aaronnn**, specialized in:
 - Structured Query Attacks  
 - Web Exploitation  
 - Network Security  
@@ -41,69 +41,120 @@ Top **6% TryHackMe** under the name **Aron**, specialized in:
 
 ---
 
-## 🔥 Blockchain, Bitcoin & Web3 Stack
+## 🔥 Cybersecurity & Pentesting Stack
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br>
+  <b>Linux (Kali, Debian, Ubuntu)</b>
+</p>
 
-<p align="left">
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=029" width="45" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=029" width="45" />
-  <img src="https://seeklogo.com/images/W/web3-logo-DB114BC3A8-seeklogo.com.png" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="45" />
-  <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=029" width="45" />
-  <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=029" width="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metamask.svg" width="45" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/><br>
+  <b>Bash Scripting</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="45"/><br>
+  <b>Wireshark – Packet Analysis</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="45"/><br>
+  <b>BurpSuite / ZERB – Web Pentesting</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="45"/><br>
+  <b>Metasploit Framework</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="45"/><br>
+  <b>Nmap – Recon & Network Scanning</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="45"/><br>
+  <b>OWASP Top 10 – Web Security Standards</b>
 </p>
 
 ---
 
-## 🔥 Cryptography & Algorithms
+## 🟣 Blockchain, Bitcoin & Web3 Stack
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bitcoin.svg" width="45"/><br>
+  <b>Bitcoin – Blockchain Fundamentals</b>
+</p>
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/SHA-2.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/RSA_%28algorithm%29_diagram.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/AES_%28algorithm%29_diagram.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zero-Knowledge_Proof.svg/512px-Zero-Knowledge_Proof.svg.png" width="45" />
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" width="45"/><br>
+  <b>Ethereum – Smart Contracts</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/web3dotjs.svg" width="45"/><br>
+  <b>Web3.js – Blockchain Interaction</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/solidity.svg" width="45"/><br>
+  <b>Solidity – Smart Contract Language</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chainlink.svg" width="45"/><br>
+  <b>Chainlink – Oracle Networks</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tether.svg" width="45"/><br>
+  <b>Crypto Exchanges / Market Security</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metamask.svg" width="45"/><br>
+  <b>MetaMask – Wallet Security</b>
 </p>
 
 ---
 
-## 🔥 Programming Languages
+## 🔐 Cryptography & Algorithms
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnupg.svg" width="45"/><br>
+  <b>GnuPG – Encryption & Key Management</b>
+</p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" width="45" />
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openssl.svg" width="45"/><br>
+  <b>OpenSSL – Crypto Libraries</b>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/letsencrypt.svg" width="45"/><br>
+  <b>Certificates, Hashing, Crypto Algorithms</b>
 </p>
 
 ---
 
-## 🔥 CVE Research & Vulnerability Analysis
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/CVE_logo.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/NVD-logo.png" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/TryHackMe_Logo.png" width="60" />
+## 🧩 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br>
+  <b>Python – Automation, Analysis, Web Security</b>
 </p>
 
----
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/><br>
+  <b>C++ – Performance & System-Level Understanding</b>
+</p>
 
-## 🧩 Featured Work
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/><br>
+  <b>C – Low-Level Security Concepts</b>
+</p>
 
-- 🔍 CVE Research published on **aronoscharf.ch**  
-- 🛰️ Python blockchain analysis tools  
-- 🧪 Web security writeups & exploit breakdowns  
-- 🌐 API recon & attack surface analysis  
-- 🔐 Wallet security & crypto threat modeling  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br>
+  <b>JavaScript – Web Exploitation Basics</b>
+</p>
 
----
-
-## 📫 Reach Me
-
-- **Website**: https://aronoscharf.ch  
-- **Email**: aron@aronoscharf.ch  
-- **TryHackMe**: Top 6% — *Aron*  
-
----
-
-<p align="center"><i>This profile reflects a fusion of Cybersecurity, Blockchain Research, and Applied Cryptography.</i></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" wid
