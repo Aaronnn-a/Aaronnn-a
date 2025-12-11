@@ -1,0 +1,70 @@
+<svg fill="none" viewBox="0 0 900 220" width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradientText {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+
+        @keyframes starFall {
+          0%   { transform: translateY(-40px); opacity: 1; }
+          100% { transform: translateY(240px); opacity: 0.25; }
+        }
+
+        h1 {
+          font-family: 'Segoe UI', sans-serif;
+          text-align: center;
+          font-size: 4.7em;
+          font-weight: 900;
+          margin-top: 12px;
+          letter-spacing: -0.03em;
+          background: linear-gradient(270deg,#00eaff,#a700ff,#ff006a);
+          background-size: 300%;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: gradientText 4s ease infinite;
+          text-shadow: 0 0 25px rgba(0,255,255,0.35);
+        }
+
+        h2 {
+          color: #bdbdbd;
+          text-align: center;
+          margin-top: -18px;
+          font-family: monospace;
+          font-size: 1.35em;
+        }
+
+        .star {
+          position: absolute;
+          color: #fff;
+          font-size: 18px;
+          animation: starFall 7s linear infinite;
+        }
+      </style>
+
+      <h1>Aaron Ashraf</h1>
+      <h2>Blockchain • Cybersecurity • Research</h2>
+
+      <!-- STARS RANDOMLY DISTRIBUTED (LIKE DRAGKOB) -->
+      <div class="star" style="left:6%; top:10px; animation-delay:0s;">✦</div>
+      <div class="star" style="left:18%; top:30px; animation-delay:1.1s;">✧</div>
+      <div class="star" style="left:32%; top:5px; animation-delay:2.4s;">✦</div>
+
+      <div class="star" style="left:48%; top:25px; animation-delay:0.7s;">✧</div>
+      <div class="star" style="left:61%; top:15px; animation-delay:2.1s;">✦</div>
+
+      <div class="star" style="left:72%; top:40px; animation-delay:1.5s;">✧</div>
+      <div class="star" style="left:84%; top:8px; animation-delay:0.3s;">✦</div>
+
+      <div class="star" style="left:12%; top:70px; animation-delay:2.7s;">✧</div>
+      <div class="star" style="left:45%; top:80px; animation-delay:1.9s;">✦</div>
+
+      <div class="star" style="left:77%; top:90px; animation-delay:0.9s;">✧</div>
+
+      <!-- 10 stars total (cleaner, less crowded than previous 20) -->
+
+    </div>
+  </foreignObject>
+</svg>
