@@ -6,7 +6,7 @@
 <h3 align="center">Blockchain Researcher • Cybersecurity Analyst • Research</h3>
 
 ---
-
+```python
 // A bit more about myself:
 
 const Aaron = {
@@ -15,7 +15,7 @@ const Aaron = {
   stats: ["TryHackMe Top 6%", "CVE Research"],
   hobbies: ["Boxing", "Chess", "Football", "IT-Security", "Quant Finance"]
 };
-
+```
 
 ---
 
