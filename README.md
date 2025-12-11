@@ -12,7 +12,7 @@ const Aaron = {
 
   code: ["Python", "C"],
   interests: ["Cybersecurity", "Blockchain", "Cryptography"],
-  stats: ["TryHackMe Top 6%", "CVE Research"],
+  stats: ["TryHackMe", "CVE Research"],
   hobbies: ["Boxing", "Chess", "Football", "IT-Security", "Quant Finance"]
 
 };
