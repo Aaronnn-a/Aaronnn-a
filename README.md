@@ -27,18 +27,17 @@ Top **6% TryHackMe** under the name **Aron**, specialized in:
 
 ---
 
-## 🔥 Cybersecurity & Pentesting Stack
-
+<h3 align="left">Cybersecurity & Pentesting Stack:</h3>
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Wireshark_Logo.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/burp-suite.svg" width="45" />
-  <img src="https://icons-for-free.com/iconfiles/png/512/metasploit+logo-1320173506782965388.png" width="45" />
-  <img src="https://nmap.org/images/nmap-logo-2x.png" width="45" />
-  <img src="https://img.icons8.com/?size=512&id=115143&format=png" width="45" />
-  <img src="https://raw.githubusercontent.com/OWASP/www-project-top-ten/master/assets/images/OWASP_Logo_Colour.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="45"/>
 </p>
+
 
 ---
 
