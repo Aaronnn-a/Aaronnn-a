@@ -7,23 +7,15 @@
 
 ---
 
-### 🧠 About Me
+// A bit more about myself:
 
-I'm a **Cybersecurity & Blockchain Researcher** focused on:
+const Aaron = {
+  code: ["Python", "C"],
+  interests: ["Cybersecurity", "Blockchain", "Cryptography"],
+  stats: ["TryHackMe Top 6%", "CVE Research"],
+  hobbies: ["Boxing", "Chess", "Football", "IT-Security", "Quant Finance"]
+};
 
-- 🔐 **Bitcoin, Wallet Security & Crypto-Algorithms (SHA256, AES, RSA)**  
-- 🌐 **Web Security, OWASP Top 10, Network Protocol Analysis**  
-- 🛡️ **Pentesting: Nmap, Burp Suite, Wireshark, Metasploit, ZERB / BurpSweep**  
-- 📊 **Blockchain Analysis (Python-based), Crypto Markets & Exchanges**  
-- 🧩 **CVE Research & Vulnerability Analysis (Published on aronoscharf.ch)**  
-- 🐧 **Linux-first workflow (Debian, Ubuntu, Kali)**  
-- 💻 **Programming: Python, C++, C, SQL**  
-
-Top **6% TryHackMe** under the name **Aaronnn**, specialized in:
-- Structured Query Attacks  
-- Web Exploitation  
-- Network Security  
-- Cryptographic Puzzles  
 
 ---
 
