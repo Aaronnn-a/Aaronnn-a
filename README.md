@@ -28,135 +28,127 @@ Top **6% TryHackMe** under the name **Aaronnn**, specialized in:
 ---
 
 ## 🛡️ Cybersecurity & Pentesting
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
-  <sub>Linux</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=bash" width="50"/><br>
-  <sub>Bash</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-  <sub>Python</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
-  <sub>Git</sub>
-</td>
-</tr>
-</table>
-
 <p align="center">
-  Wireshark · BurpSuite · Nmap · Metasploit · OWASP
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+        <sub>Linux</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=bash" width="55"/><br>
+        <sub>Bash</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+        <sub>Python</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+        <sub>Git</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
 ---
 
 ## 🪙 Blockchain, Bitcoin & Web3
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=solidity" width="50"/><br>
-  <sub>Solidity</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-  <sub>JavaScript</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="50"/><br>
-  <sub>React</sub>
-</td>
-</tr>
-</table>
-
 <p align="center">
-  Bitcoin · Ethereum · Chainlink · Web3.js · Wallet Security
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=solidity" width="55"/><br>
+        <sub>Solidity</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+        <sub>JavaScript</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+        <sub>React</sub>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
 ## 🔐 Cryptography & Algorithms
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-  <sub>Python</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
-  <sub>C</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
-  <sub>C++</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
-  <sub>Linux</sub>
-</td>
-</tr>
-</table>
-
 <p align="center">
-  SHA-256 · RSA · AES · ECC · ZK-Proofs · Hashing
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+        <sub>Python</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+        <sub>C</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
+        <sub>C++</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+        <sub>Linux</sub>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
 ## 🧩 Programming Languages
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+        <sub>Python</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+        <sub>C</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
+        <sub>C++</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+        <sub>JavaScript</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-  <sub>Python</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
-  <sub>C</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
-  <sub>C++</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-  <sub>JavaScript</sub>
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🚨 CVE Research & Vulnerability Analysis
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
-  <sub>GitHub</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
-  <sub>Git</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-  <sub>Python</sub>
-</td>
-</tr>
-</table>
-
 <p align="center">
-  CVE Research · NVD Analysis · Exploit Breakdown · TryHackMe Top 6%
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+        <sub>GitHub</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+        <sub>Git</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+        <sub>Python</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
