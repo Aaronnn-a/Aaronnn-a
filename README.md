@@ -27,58 +27,136 @@ Top **6% TryHackMe** under the name **Aaronnn**, specialized in:
 
 ---
 
-## 🛡️ Cybersecurity & Pentesting Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
+## 🛡️ Cybersecurity & Pentesting
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
+  <sub>Linux</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=bash" width="50"/><br>
+  <sub>Bash</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+  <sub>Python</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+  <sub>Git</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <b>Linux · Bash · Python · Networking · Wireshark · BurpSuite · Nmap · Metasploit · OWASP</b>
+  Wireshark · BurpSuite · Nmap · Metasploit · OWASP
 </p>
+
 
 ---
 
-## 🪙 Blockchain, Bitcoin & Web3 Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+## 🪙 Blockchain, Bitcoin & Web3
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=solidity" width="50"/><br>
+  <sub>Solidity</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+  <sub>JavaScript</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+  <sub>React</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <b>Bitcoin · Ethereum · Chainlink · Web3.js · Wallet Security · Crypto Algorithms · Exchanges</b>
+  Bitcoin · Ethereum · Chainlink · Web3.js · Wallet Security
 </p>
-
 
 ---
 
 ## 🔐 Cryptography & Algorithms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+  <sub>Python</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+  <sub>C</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+  <sub>C++</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
+  <sub>Linux</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <b>SHA-256 · RSA · AES · ECC · Zero Knowledge · Hashing · OpenSSL</b>
+  SHA-256 · RSA · AES · ECC · ZK-Proofs · Hashing
 </p>
 
 ---
 
 ## 🧩 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,sql" />
-</p>
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+  <sub>Python</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+  <sub>C</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+  <sub>C++</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+  <sub>JavaScript</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚨 CVE Research & Vulnerability Analysis
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+  <sub>GitHub</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+  <sub>Git</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+  <sub>Python</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <b>CVE Research · NVD Analysis · Exploit Breakdown · TryHackMe Top 6%</b>
+  CVE Research · NVD Analysis · Exploit Breakdown · TryHackMe Top 6%
 </p>
+
+---
